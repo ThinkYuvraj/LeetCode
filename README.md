@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ThinkYuvraj/LeetCode/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ThinkYuvraj/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/ThinkYuvraj/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Matrix
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ThinkYuvraj/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ThinkYuvraj/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
