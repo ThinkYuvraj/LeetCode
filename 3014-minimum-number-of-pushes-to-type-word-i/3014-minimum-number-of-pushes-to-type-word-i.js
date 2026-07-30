@@ -3,11 +3,25 @@
  * @return {number}
  */
 
-var minimumPushes = function (word) {
+var minimumPushes = function(word) {
     let pushes = 0;
+
     for (let i = 0; i < word.length; i++) {
-        pushes += Math.floor(i / 8) + 1;
+        switch (Math.floor(i / 8)) {
+            case 0:
+                pushes += 1;
+                break;
+            case 1:
+                pushes += 2;
+                break;
+            case 2:
+                pushes += 3;
+                break;
+            default:
+                pushes += 4;
+        }
     }
+
     return pushes;
 };
 
