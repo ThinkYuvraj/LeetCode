@@ -18,7 +18,6 @@ var missingInteger = function(nums) {
     while (set.has(sum)) {
         sum++;
     }
-
     return sum;
 };
 
